@@ -11,12 +11,6 @@
 
 ![RentalX Web View](./RentalX.png)
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
 ### Contact
 
 If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/tirth-ux-ui-designer).
