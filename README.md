@@ -9,7 +9,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](./RenataX_15-08-2024/RentalX- Web View.png "Desktop Demo")
+![Portfolio Desktop Demo](./RentaX-15-08-2024/RentalX- Web View.png "Desktop Demo")
 
 ### Prerequisites
 
