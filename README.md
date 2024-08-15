@@ -8,8 +8,7 @@
 <br />
 
 ### Demo Screeshots
-
-![Portfolio Desktop Demo](./RentaX-15-08-2024/RentalX- Web View.png "Desktop Demo")
+![RentalX Web View](RentaX-15-08-2024/RentalX-Web View.png)
 
 ### Prerequisites
 
