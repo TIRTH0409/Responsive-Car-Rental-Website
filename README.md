@@ -8,7 +8,8 @@
 <br />
 
 ### Demo Screeshots
-![RentalX Web View](RentaX-15-08-2024/RentalX-Web View.png)
+
+![RentalX Web View](RentaX-15-08-2024/RentalX-Web%20View.png)
 
 ### Prerequisites
 
